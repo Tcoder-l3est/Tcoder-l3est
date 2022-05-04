@@ -1,5 +1,13 @@
 ### Hi there 👋
+- 👋 Hi, I’m @Tcode-l3est!
+- 👨‍🎓 I'm a junior studying in the Department of Computer Science at Shandong University.
+- 👀 I’m interested in Database, Datamining, Machine Learning and Deep Learning.
+- 🌱 I’m currently attending CSSummerCamp2022.
+- 💞️ I’m looking for a awesome offer this summer.
+- 📫 Reach me: zhaoyangzhang00@foxmail.com
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tcoder-l3est&show_icons=true&theme=dark&count_private=true)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder-l3est&theme=dark&layout=compact)
 
 
