@@ -8,9 +8,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tcoder-l3est&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder-l3est&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&layout=compact" />
+https://stats.justsong.cn/api/csdn?id=Tcoder-l3est
 
-![Tcoder-l3est's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder-l3est&layout=compact&hide_border=true&langs_count=10)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder-l3est&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&layout=compact&langs_count=10" />
 
 <!--
 **Tcoder-l3est/Tcoder-l3est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
