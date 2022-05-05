@@ -7,11 +7,8 @@
 - 📫 Reach me: zhaoyangzhang00@foxmail.com
 
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_47865838" style="box-shadow:none !important">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tcoder-l3est&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder-l3est&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&layout=compact&langs_count=10"  />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tcoder-l3est&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff"/>
 
 
 <!--
