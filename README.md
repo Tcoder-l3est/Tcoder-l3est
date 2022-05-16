@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🙋‍♂️ I’m @Tcoder-l3est!
 - 👨‍🎓 I'm a junior studying in the Department of Computer Science at Shandong University.
-- 👀 I’m interested in Database, Datamining, Machine Learning and Deep Learning.
+- 👀 I’m interested in Database System, Datamining, Machine Learning and Deep Learning.
 - 🌱 I’m currently attending CSSummerCamp2022.
 - 💪 I’m looking for a awesome offer in this summer!
 - 📫 Reach me: zhaoyangzhang00@foxmail.com
