@@ -3,7 +3,7 @@
 - 👨‍🎓 I'm a junior studying in the Department of Computer Science at Shandong University.
 - 👀 I’m interested in Database System, Datamining, Machine Learning and Deep Learning.
 - 🌱 I’m currently attending CSSummerCamp2022.
-- 💪 I’m looking for a awesome offer in this summer!
+- 💪 I’m looking for an awesome offer in this summer!
 - 📫 Reach me: zhaoyangzhang00@foxmail.com
 
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=qq_47865838" style="box-shadow:none !important">
